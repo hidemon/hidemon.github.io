@@ -10,8 +10,8 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://hidemon.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Yu Sun</name>
+		<email>yusun@utexas.edu</email>
 	</author>
 
 	{% for post in site.posts %}
