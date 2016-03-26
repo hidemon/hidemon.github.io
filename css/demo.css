@@ -21,6 +21,11 @@ a{
 	width: 100%;
 	min-width: 320px;
 	position: relative;
+
+	font-family: 'Open Sans Condensed','Arial Narrow', serif;
+	font-weight: 400;
+	font-size: 15px;
+	color: #333;
 }
 .clr{
 	clear: both;
