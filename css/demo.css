@@ -9,19 +9,21 @@ a{
 	text-decoration: none;
 }
 .container{
-	margin: 0;
+	margin: 1em;
+	padding: 2em;
 	width: 100%;
 	min-width: 320px;
+	position: relative;
+
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
 	font-weight: 400;
 	font-size: 15px;
 	color: #333;
-	float: left;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 	overflow-x: hidden;
-	position: relative;
+	
 	
 
 }
