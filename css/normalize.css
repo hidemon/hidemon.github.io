@@ -83,14 +83,6 @@ textarea {
     font-family: sans-serif;
 }
 
-/*
- * Addresses margins handled incorrectly in IE6/7
- */
-
-body {
-    margin: 0;
-}
-
 
 /* =============================================================================
    Links
